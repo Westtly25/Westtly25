@@ -2,9 +2,13 @@
 
 ## Technology stack i use
 <ul>
-  <li>Project 1 - 2D Clicker like</li>
-  <li>Project 2 - 2D Space arena survival like</li>
-  <li>Project 3 - 2D Match 3 like</li>
+  <li>Unity 2022 +</li>
+  <li>Zenject</li>
+  <li>Unity UI Toolkit API</li>
+  <li>Unity Addressables API</li>
+  <li>Unity Localization API</li>
+  <li>Unity Purchasing API</li>
+  <li>Google Play Services</li>
 </ul>
 
 ## Portfolio Projects on Git
