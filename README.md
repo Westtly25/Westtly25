@@ -1,9 +1,11 @@
 ### Unity C# Developer & .Net C# Developer
 
-## Technology stack
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity 2022" width="45" height="45"/>
-</p>
+## Technology stack i use
+<ul>
+  <li>Project 1 - 2D Clicker like</li>
+  <li>Project 2 - 2D Space arena survival like</li>
+  <li>Project 3 - 2D Match 3 like</li>
+</ul>
 
 ## Portfolio Projects on Git
 <ul>
