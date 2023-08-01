@@ -6,4 +6,4 @@
 </p>
 
 ## Portfolio Projects
-<a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject"></a>
+<a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject">Project 1</a>
