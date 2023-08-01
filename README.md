@@ -1,4 +1,4 @@
-### Unity C# Developer & .Net C# Developer
+## Unity C# Developer & .Net C# Developer
 
 ## Technology stack i use
 <ul>
