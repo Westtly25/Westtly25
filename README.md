@@ -3,7 +3,7 @@
   <li><a href="https://www.linkedin.com/in/sergey-gorobets-657a4220a/">LinkedIn</a></li>
 </ul>
 
-## Technology stack i use
+## Technology Stack
 <ul>
   <li>Unity 2022 +</li>
   <li>Zenject</li>
