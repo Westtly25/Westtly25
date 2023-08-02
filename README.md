@@ -13,6 +13,7 @@
   <li>Unity Addressables API</li>
   <li>Unity Localization API</li>
   <li>Unity Purchasing API</li>
+  <li>Unity Ads API</li>
   <li>Google Play Services</li>
 </ul>
 
