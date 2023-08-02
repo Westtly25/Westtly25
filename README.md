@@ -15,7 +15,7 @@
   <li>Google Play Services</li>
 </ul>
 
-## Portfolio Projects on Git
+## Portfolio Unity Projects on Git
 <ul>
   <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">Project 1 - 2D Farm Simulator like</a></li>
   <li><a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject">Project 2 - 2D Clicker like</a></li>
