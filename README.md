@@ -8,6 +8,7 @@
 <ul>
   <li>Unity 2022 +</li>
   <li>Zenject</li>
+  <li>.Net C#</li>
   <li>Unity UI Toolkit API</li>
   <li>Unity Addressables API</li>
   <li>Unity Localization API</li>
