@@ -9,6 +9,7 @@
   <li>Unity 2022 +
   <ul>
     <li>Unity UI Toolkit API</li>
+    <li>Input System API</li>
     <li>Unity Addressables API</li>
     <li>Unity Localization API</li>
     <li>Unity Purchasing API</li>
