@@ -1,4 +1,4 @@
-## Unity C# Developer & .Net C# Developer
+## Unity C# Developer & .Net C# Developer - Sergey Gorobets
 <ul>
   <li><a href="https://www.linkedin.com/in/sergey-gorobets-657a4220a/">LinkedIn</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Google Play Project</a></li>
