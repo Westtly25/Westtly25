@@ -42,3 +42,10 @@
       <li>Status - Gameplay coding process...</li>
     </ul></li>
 </ul>
+
+## Portfolio .Net Core & Xamarin Forms Projects on Git
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Xamarin Forms - Android app</a></li>
+  <li><a></a></li>
+  <li><a></a></li>
+</ul>
