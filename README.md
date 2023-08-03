@@ -7,18 +7,19 @@
 ## Technology Stack
 <ul>
   <li>Unity 2022 +
-  <ul>
-    <li>Unity UI Toolkit API</li>
-    <li>Input System API</li>
-    <li>Unity Addressables API</li>
-    <li>Unity Localization API</li>
-    <li>Unity Purchasing API</li>
-    <li>Unity Ads API</li>
-  </ul>
+    <ul>
+      <li>Unity UI Toolkit API</li>
+      <li>Input System API</li>
+      <li>Unity Addressables API</li>
+      <li>Unity Localization API</li>
+      <li>Unity Purchasing API</li>
+      <li>Unity Ads API</li>
+    </ul>
   </li>
   <li>Zenject</li>
+  <li>UniRx</li>
   <li>.Net C#</li>
-  <li>Google Play Services</li>
+  <li>Google Play Services API</li>
 </ul>
 
 ## Portfolio Unity Projects on Git
