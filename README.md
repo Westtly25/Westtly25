@@ -6,14 +6,17 @@
 
 ## Technology Stack
 <ul>
-  <li>Unity 2022 +</li>
+  <li>Unity 2022 +
+  <ul>
+    <li>Unity UI Toolkit API</li>
+    <li>Unity Addressables API</li>
+    <li>Unity Localization API</li>
+    <li>Unity Purchasing API</li>
+    <li>Unity Ads API</li>
+  </ul>
+  </li>
   <li>Zenject</li>
   <li>.Net C#</li>
-  <li>Unity UI Toolkit API</li>
-  <li>Unity Addressables API</li>
-  <li>Unity Localization API</li>
-  <li>Unity Purchasing API</li>
-  <li>Unity Ads API</li>
   <li>Google Play Services</li>
 </ul>
 
