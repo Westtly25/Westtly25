@@ -26,14 +26,14 @@
   </li>
   <li><a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject">Project 2 - 2D Clicker like</a>
   <ul>
-      <li>Status - Gameplay coding process</li>
+      <li>Status - Gameplay coding process...</li>
     </ul></li>
   <li><a href="https://github.com/Westtly25/Space-Invaders-Unity2022-Zenject">Project 3 - 2D Space arena survival like</a>
   <ul>
-      <li>Status - Gameplay coding process</li>
+      <li>Status - Gameplay coding process...</li>
     </ul></li>
   <li><a href="https://github.com/Westtly25/Potion-Match-3-Unity-2022-Zenject-Unity-Addressables">Project 4 - 2D Match 3 like</a>
   <ul>
-      <li>Status - Gameplay coding process</li>
+      <li>Status - Gameplay coding process...</li>
     </ul></li>
 </ul>
