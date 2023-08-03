@@ -46,6 +46,6 @@
 ## Portfolio .Net Core & Xamarin Forms Projects on Git
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Xamarin Forms - Android app</a></li>
-  <li><a></a></li>
-  <li><a></a></li>
+  <li><a href="https://github.com/Westtly25/ProductStoreApp">Ecommerce - Products Store App</a></li>
+  <li><a href="https://github.com/Westtly25/Notes.Backend">REST API</a></li>
 </ul>
