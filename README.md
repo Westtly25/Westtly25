@@ -42,7 +42,7 @@
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
     </ul>
   </li>
-  <li><a href="https://github.com/Westtly25/Potion-Match-3-Unity-2022-Zenject-Unity-Addressables">Project 4 - 2D Match 3 like</a>
+  <li><a href="https://github.com/Westtly25/Potion-Match-3-Unity-2022-Zenject-Unity-Addressables">Project 4 - 2D Match3 like</a>
   <ul>
       <li>Status - Gameplay coding process...</li>
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
