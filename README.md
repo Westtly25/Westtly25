@@ -23,7 +23,7 @@
   <li>Google Play Services API</li>
 </ul>
 
-## Portfolio Unity projects on Git
+## Portfolio <b>Unity</b> projects on Git
 <ul>
   <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">Project 1 - 2D Farm Simulator like</a>
     <ul>
