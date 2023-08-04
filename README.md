@@ -37,7 +37,7 @@
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
     </ul></li>
   <li><a href="https://github.com/Westtly25/Space-Invaders-Unity2022-Zenject">Project 3 - 2D Space arena survival like</a>
-  <ul>
+    <ul>
       <li>Status - Gameplay coding process...</li>
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
     </ul>
@@ -52,7 +52,19 @@
 
 ## Portfolio .Net Core & Xamarin Forms Projects on Git
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Xamarin Forms - Android app</a></li>
-  <li><a href="https://github.com/Westtly25/ProductStoreApp">Ecommerce - Products Store App</a></li>
-  <li><a href="https://github.com/Westtly25/Notes.Backend">REST API</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Xamarin Forms - Android app</a>
+   <ul>
+      <li>Status - Relesed</li>
+      <li>Technology Stack - Xamarin Forms, C#, .Net, Google Ads, Json API & etc...</li>
+    </ul></li>
+  <li><a href="https://github.com/Westtly25/ProductStoreApp">Ecommerce - Products Store App</a>
+   <ul>
+      <li>Status - In process...</li>
+      <li>Technology Stack - .Net Core, C#, DI, Angular, Node.js, HTML, CSS,  Twitter Bootstrap & etc...</li>
+    </ul></li>
+  <li><a href="https://github.com/Westtly25/Notes.Backend">REST API</a>
+   <ul>
+      <li>Status - Deprecated</li>
+      <li>Technology Stack - .Net Core, C#, DI & etc...</li>
+    </ul></li>
 </ul>
