@@ -4,25 +4,6 @@
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Google Play Project</a></li>
 </ul>
 
-## Technology Stack
-<ul>
-  <li>Unity 2022v +
-    <ul>
-      <li>Unity UI Toolkit API</li>
-      <li>Input System API</li>
-      <li>Unity Addressables API</li>
-      <li>Unity Localization API</li>
-      <li>Unity Purchasing API</li>
-      <li>Unity Ads API</li>
-      <li>Unity Animator</li>
-    </ul>
-  </li>
-  <li>Zenject</li>
-  <li>UniRx</li>
-  <li>.Net C#</li>
-  <li>Google Play Services API</li>
-</ul>
-
 ## Portfolio Unity projects on Git
 <ul>
   <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">Project 1 - 2D Farm Simulator like</a>
@@ -49,6 +30,26 @@
     </ul>
   </li>
 </ul>
+
+## Technology Stack
+<ul>
+  <li>Unity 2022v +
+    <ul>
+      <li>Unity UI Toolkit API</li>
+      <li>Input System API</li>
+      <li>Unity Addressables API</li>
+      <li>Unity Localization API</li>
+      <li>Unity Purchasing API</li>
+      <li>Unity Ads API</li>
+      <li>Unity Animator</li>
+    </ul>
+  </li>
+  <li>Zenject</li>
+  <li>UniRx</li>
+  <li>.Net C#</li>
+  <li>Google Play Services API</li>
+</ul>
+
 
 ## Portfolio .Net Core & Xamarin Forms Projects on Git
 <ul>
