@@ -6,7 +6,7 @@
 
 ## Technology Stack
 <ul>
-  <li>Unity 2022 +
+  <li>Unity 2022v +
     <ul>
       <li>Unity UI Toolkit API</li>
       <li>Input System API</li>
