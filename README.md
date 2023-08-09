@@ -2,7 +2,7 @@
 <ul>
   <li><a href="https://www.linkedin.com/in/sergey-gorobets-657a4220a/">LinkedIn</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Google Play Project</a></li>
-  <li><a href="https://docs.google.com/document/d/1sTgdgmcvNtUT4Zuns1SRfUwMX2GFcfWpJYFAsYcDN_o/edit?usp=sharing">CV (resume) on google docs</a></li>
+  <li><a href="https://docs.google.com/document/d/1sTgdgmcvNtUT4Zuns1SRfUwMX2GFcfWpJYFAsYcDN_o/edit?usp=sharing">CV (resume) - Google Docs</a></li>
 </ul>
 
 ## Portfolio Unity projects on Git
