@@ -46,6 +46,7 @@
     </ul>
   </li>
   <li>Zenject</li>
+  <li>UniTask</li>
   <li>UniRx</li>
   <li>.Net C#</li>
   <li>Google Play Services API</li>
