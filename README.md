@@ -52,6 +52,20 @@
   <li>Google Play Services API</li>
 </ul>
 
+## Patterns use
+<ul>
+  <li>Architecture patterns</li>
+    <ul>
+      <li>MVP</li>
+      <li>MVC</li>
+      <li>MWWM</li>
+    </ul>
+  <li>Game patterns</li>
+    <ul>
+      <li></li>
+    </ul>
+</ul>
+
 
 ## Portfolio .Net Core & Xamarin Forms Projects on Git
 <ul>
