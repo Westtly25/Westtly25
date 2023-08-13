@@ -59,21 +59,6 @@
   <li>Google Play Services API</li>
 </ul>
 
-## Patterns use
-<ul>
-  <li>Architecture patterns</li>
-    <ul>
-      <li>MVP</li>
-      <li>MVC</li>
-      <li>MWWM</li>
-    </ul>
-  <li>Game patterns</li>
-    <ul>
-      <li></li>
-    </ul>
-</ul>
-
-
 ## Portfolio .Net Core & Xamarin Forms Projects on Git
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Xamarin Forms - Android app</a>
