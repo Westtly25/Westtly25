@@ -13,26 +13,29 @@
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API, Unity Animator & etc...</li>
     </ul>
   </li>
-  <li><a href="https://github.com/Westtly25/Portfolio-Platformer-Zenject-UniTask">Project 2 - Platformer</a>
+  <li>
+    <a href="https://github.com/Westtly25/Portfolio-Platformer-Zenject-UniTask">Project 2 - Platformer</a>
     <ul>
       <li>Status - Zenject integration in progress</li>
       <li>Status - Refactoring in progress</li>
       <li>Technology Stack - Unity 2022, Zenject, UniTask, Json, Input System API, Unity Animator & etc...</li>
     </ul>
   </li>
-  <li><a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject">Project 3 - Clicker like</a>
-  <ul>
+    <li><a href="https://github.com/Westtly25/Clicker-Like-Unity2022-Zenject">Project 3 - Clicker like</a>
+    <ul>
       <li>Status - Gameplay coding process...</li>
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
     </ul></li>
-  <li><a href="https://github.com/Westtly25/Space-Invaders-Unity2022-Zenject">Project 4 - Space arena survival like</a>
+  <li>
+    <a href="https://github.com/Westtly25/Space-Invaders-Unity2022-Zenject">Project 4 - Space arena survival like</a>
     <ul>
       <li>Status - Gameplay coding process...</li>
       <li>Technology Stack - Unity 2022, Zenject, UniTask, Json, Input System API & etc...</li>
     </ul>
   </li>
-  <li><a href="https://github.com/Westtly25/Potion-Match-3-Unity-2022-Zenject-Unity-Addressables">Project 5 - Match3 like</a>
-  <ul>
+  <li>
+    <a href="https://github.com/Westtly25/Potion-Match-3-Unity-2022-Zenject-Unity-Addressables">Project 5 - Match3 like</a>
+    <ul>
       <li>Status - Gameplay coding process...</li>
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API & etc...</li>
     </ul>
