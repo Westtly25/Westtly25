@@ -9,12 +9,12 @@
 <ul>
   <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">⭐Project 1 - Farm Simulator 2D</a>
     <ul>
-      <li>
-      <ul>Status :
-        <li>☑1. Core gameplay</li>
-        <li>2. Zenject integration in progress</li>
-        <li>3. Refactoring in progress</li>
-      </ul>
+      <li>Status :
+        <ul>
+          <li>☑1. Core gameplay</li>
+          <li>2. Zenject integration in progress</li>
+          <li>3. Refactoring in progress</li>
+        </ul>
       </li>
       <li>Technology Stack - Unity 2022, Zenject, Json, Input System API, Unity Animator & etc...</li>
     </ul>
