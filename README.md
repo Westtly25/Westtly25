@@ -16,8 +16,11 @@
   <li>
     <a href="https://github.com/Westtly25/Portfolio-Platformer-Zenject-UniTask">⭐Project 2 - Platformer 2D⭐</a>
     <ul>
-      <li>Status - Zenject integration in progress</li>
-      <li>Status - Refactoring in progress</li>
+      <ul>Status
+        <li>Status - Zenject integration in progress</li>
+        <li>Status - Zenject integration in progress</li>
+        <li>Status - Refactoring in progress</li>
+      </ul>
       <li>Technology Stack - Unity 2022, Zenject, UniTask, Json, Input System API, Unity Animator & etc...</li>
     </ul>
   </li>
