@@ -7,7 +7,7 @@
 
 ## Portfolio Unity projects on Git
 <ul>
-  <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">⭐Project 1 - Farm Simulator 2D⭐</a>
+  <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">⭐Project 1 - Farm Simulator 2D</a>
     <ul>
       <ul>Status :
         <li>1. Core gameplay ready</li>
@@ -18,7 +18,7 @@
     </ul>
   </li>
   <li>
-    <a href="https://github.com/Westtly25/Portfolio-Platformer-Zenject-UniTask">⭐Project 2 - Platformer 2D⭐</a>
+    <a href="https://github.com/Westtly25/Portfolio-Platformer-Zenject-UniTask">⭐Project 2 - Platformer 2D</a>
     <ul>
       <ul>Status :
         <li>1. Core gameplay ready</li>
@@ -29,7 +29,7 @@
     </ul>
   </li>
    <li>
-    <a href="https://github.com/Westtly25/Portfolio-Unity-Zenject-UniTask-Hill-Climb-Like-Game">⭐roject 3 - Hill Climb⭐</a>
+    <a href="https://github.com/Westtly25/Portfolio-Unity-Zenject-UniTask-Hill-Climb-Like-Game">⭐roject 3 - Hill Climb</a>
     <ul>
       <ul>Status :
         <li>1. Core gameplay - Ready</li>
