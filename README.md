@@ -1,7 +1,7 @@
 ## Unity C# Developer & .Net C# Developer - Sergey Gorobets
 <ul>
   <li>
-    <img src="https://github.com/Westtly25/Westtly25/assets/51928618/ed3c5a25-8c8d-4d90-bf57-0ce8800b9765"/><a href="https://www.linkedin.com/in/sergey-gorobets-657a4220a/">LinkedIn</a></li>
+    <img src="https://github.com/Westtly25/Westtly25/assets/51928618/ed3c5a25-8c8d-4d90-bf57-0ce8800b9765" width="45" height="45"/><a href="https://www.linkedin.com/in/sergey-gorobets-657a4220a/">LinkedIn</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.InsomniaStudio.FitPlus&hl=en">Google Play Project</a></li>
   <li><a href="https://docs.google.com/document/d/1sTgdgmcvNtUT4Zuns1SRfUwMX2GFcfWpJYFAsYcDN_o/edit?usp=sharing">CV (resume) - Google Docs</a></li>
 </ul>
