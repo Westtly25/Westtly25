@@ -5,7 +5,7 @@
   <li><a href="https://docs.google.com/document/d/1sTgdgmcvNtUT4Zuns1SRfUwMX2GFcfWpJYFAsYcDN_o/edit?usp=sharing">CV (resume) - Google Docs</a></li>
 </ul>
 
-## Portfolio Unity projects on Git
+## Portfolio Unity projects on GitHub
 <ul>
   <li><a href="https://github.com/Westtly25/Farm-Simulator-Like-Unity-2022.3-Zenject">⭐Project 1 - Farm Simulator 2D</a>
     <ul>
