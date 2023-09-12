@@ -103,3 +103,23 @@
       <li>Technology Stack - .Net Core, C#, DI & etc...</li>
     </ul></li>
 </ul>
+
+## Technology Stack
+<ul>
+  <li>Backend</li>
+  <ul>
+    <li>.Net core</li>
+    <li>C#</li>
+    <li>Asp.Net</li>
+    <li>MediatR</li>
+    <li>AutoMapper</li>
+  </ul>
+  <li>Frontend</li>
+  <ul>
+    <li>Angular</li>
+    <li>Bootstrap 5</li>
+    <li>Html</li>
+    <li>Css</li>
+  </ul>
+</ul>
+
