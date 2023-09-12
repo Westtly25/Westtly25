@@ -99,7 +99,7 @@
     </ul></li>
   <li><a href="https://github.com/Westtly25/Notes.Backend">REST API</a>
    <ul>
-      <li>Status - Deprecated</li>
+      <li>Status - In process...</li>
       <li>Technology Stack - .Net Core, C#, DI & etc...</li>
     </ul></li>
 </ul>
